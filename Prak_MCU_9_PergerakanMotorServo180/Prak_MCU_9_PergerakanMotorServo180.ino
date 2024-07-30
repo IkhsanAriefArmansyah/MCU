@@ -7,7 +7,6 @@ int SERVO_MAX = 180;
 void setup() {
   // put your setup code here, to run once:
   myservo.attach(PIN_SERVO);
-
 }
 
 void loop() {
